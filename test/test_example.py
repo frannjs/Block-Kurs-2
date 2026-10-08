@@ -8,7 +8,7 @@ def test_add_numbers():
 
 def test_substract_numbers():
     result = subtract_numbers(8,5)
-    assert result == -3
+    assert result == 3
 
 def test_multiply_numbers():
     result = multiply_numbers(9,5)
